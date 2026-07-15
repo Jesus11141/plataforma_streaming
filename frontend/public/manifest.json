@@ -1,0 +1,21 @@
+{
+  "short_name": "RaulFlix",
+  "name": "RaulFlix - Streaming Platform",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIGZpbGw9IiMxZjI5MzciLz48Y2lyY2xlIGN4PSI5NiIgY3k9Ijc2IiByPSIzMCIgZmlsbD0iI2VmNDQ0NCIvPjxwb2x5Z29uIHBvaW50cz0iODUsNjggODUsODQgMTA3LDc2IiBmaWxsPSJ3aGl0ZSIvPjx0ZXh0IHg9Ijk2IiB5PSIxMzAiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5SYXVsRmxpeDwvdGV4dD48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIGZpbGw9IiMxZjI5MzciLz48Y2lyY2xlIGN4PSIyNTYiIGN5PSIyMDAiIHI9Ijc1IiBmaWxsPSIjZWY0NDQ0Ii8+PHBvbHlnb24gcG9pbnRzPSIyMjUsMTc1IDIyNSwyMjUgMjg3LDIwMCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIyNTYiIHk9IjM1MCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjQwIiBmb250LXdlaWdodD0iYm9sZCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPlJhdWxGbGl4PC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#111827",
+  "orientation": "portrait"
+}
