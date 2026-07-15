@@ -32,6 +32,7 @@ yarn-error.log*
 .pub/
 build/
 raulflix_flutter/build/
+mobile/
 
 # IDE
 .vscode/
@@ -41,4 +42,4 @@ raulflix_flutter/build/
 *~
 
 # OS
-Thumbs.db
+Thumbs.db/
