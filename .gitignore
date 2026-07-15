@@ -31,7 +31,7 @@ yarn-error.log*
 .pub-cache/
 .pub/
 build/
-raulflix_flutter/build/
+raulflix_flutter/
 mobile/
 
 # IDE
